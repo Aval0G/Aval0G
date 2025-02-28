@@ -2,7 +2,7 @@
 
 <h2> Estudiante de ingenieria en software </h2>
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript** 
+- 🌱 Actualmente estoy aprendiendo **.NET** 
 
 - 📫 Me puedes contactar en **chsjajaa@gmail.com**
 
